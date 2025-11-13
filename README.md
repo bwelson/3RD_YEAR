@@ -7,7 +7,7 @@ Quantitative research examining how housing arrangements influence student succe
 ## Methodology
 - **Design**: Descriptive survey research (cross-sectional)
 - **Sample**: 329 undergraduate students across all academic years
-- **Data Collection**: Online questionnaire with Likert-scale items ([View Survey Form](YOUR_GOOGLE_FORM_LINK))
+- **Data Collection**: Online questionnaire with Likert-scale items ([View Survey Data](https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
 - **Analysis Tools**: SPSS (chi-square tests, cross-tabulation), Microsoft Excel
 - **Timeframe**: Second semester, 2023-2024 academic year
 
@@ -88,10 +88,10 @@ This study reveals that **structural factors** (roommate selection autonomy) and
 - `project.pdf` - Complete report and findings
 - `README.md` - This file
 
-## How to Access Survey
+## How to Access Survey Data
 
 The data collection instrument used in this study is available here:  
-📋 [Google Form Survey Link](YOUR_GOOGLE_FORM_LINK)
+📋 [Google Form Survey Dataset]((https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
 
 *Note: This is the actual survey distributed to participants. No code repository is included, as analysis was conducted using SPSS and Excel.*
 
