@@ -91,7 +91,7 @@ This study reveals that **structural factors** (roommate selection autonomy) and
 ## How to Access Survey Data
 
 The data collection instrument used in this study is available here:  
-📋 [Google Form Survey Dataset]((https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
+📋 ([Google Form Survey Dataset](https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
 
 *Note: This is the actual survey distributed to participants. No code repository is included, as analysis was conducted using SPSS and Excel.*
 
