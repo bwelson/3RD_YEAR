@@ -85,9 +85,7 @@ This study reveals that **structural factors** (roommate selection autonomy) and
 
 ## Files in Repository
 
-- `full_report.pdf` - Complete 50-page technical report
-- `survey_instrument.pdf` - Questionnaire used for data collection
-- `analysis_summary.xlsx` - Descriptive statistics and frequency tables
+- `project.pdf` - Complete report and findings
 - `README.md` - This file
 
 ## How to Access Survey
