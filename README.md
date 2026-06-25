@@ -13,7 +13,7 @@ Quantitative research examining how housing arrangements influence student succe
 
 ## Key Findings
 
-### ✅ Significant Associations Found
+### Significant Associations Found
 
 **1. Roommate Selection Method (p=0.015)**
 - Students who chose their roommates demonstrated significantly higher academic performance
@@ -25,7 +25,7 @@ Quantitative research examining how housing arrangements influence student succe
 - Conflict *frequency* did not predict performance (p=0.956)
 - **Implication**: How students manage disagreements matters more than avoiding conflict
 
-### ❌ No Significant Associations Found
+### No Significant Associations Found
 
 **3. Roommate Relationship Quality (p=0.387)**
 - Self-reported relationship ratings did not predict academic outcomes
@@ -91,7 +91,7 @@ This study reveals that **structural factors** (roommate selection autonomy) and
 ## How to Access Survey Data
 
 The data collection instrument used in this study is available here:  
-📋 ([Google Form Survey Dataset](https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
+([Google Form Survey Dataset](https://github.com/bwelson/3RD_YEAR/blob/main/dataset.csv))
 
 *Note: This is the actual survey distributed to participants. No code repository is included, as analysis was conducted using SPSS and Excel.*
 
@@ -103,7 +103,7 @@ The data collection instrument used in this study is available here:
 **Bentum Welson**  
 Level 300, Department of Statistics  
 Kwame Nkrumah University of Science and Technology  
-📧 [bwelson523@gmail.com]  
+[bwelson523@gmail.com]  
 
 
 ## Skills Demonstrated
